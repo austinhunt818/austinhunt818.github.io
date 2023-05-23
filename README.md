@@ -1,2 +1,2 @@
-# austinhunt818.github.io
+## Welcome!
 Welcome to my Github page!
